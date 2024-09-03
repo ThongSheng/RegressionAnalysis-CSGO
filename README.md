@@ -1,7 +1,6 @@
-# RegressionAnalysis-CSGOdataset
-A simple analysis on the CSGO dataset that determines which predictors are useful in predicting which sides (Counter-Terrorists or Terrorists) will win the round. <br>
-This project utilizes multiple regression models and determines which model is the most suitable for this dataset. <br>
-Several models that were used:
+# RegressionAnalysis-CSGO Match Outcomes
+This project involves a regression analysis of a CSGO dataset to identify key predictors for determining the likelihood of victory for either the Counter-Terrorists or Terrorists side in a round. <br>
+The analysis employs several regression models to assess which is most effective for this dataset, including:<br>
 1. Logistic regression
 2. Linear discriminant analysis (LDA)
 3. Quadratic discriminant analysis (QDA)
